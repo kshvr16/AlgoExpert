@@ -1,3 +1,5 @@
+# Copyright © 2023 AlgoExpert LLC. All rights reserved.
+
 """
 Time - O(n)
 Space - O(1)
